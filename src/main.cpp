@@ -1,4 +1,4 @@
-#include "Program.h"
+#include "program.h"
 
 //https://stackoverflow.com/questions/1961209/making-some-text-in-printf-appear-in-green-and-red
 #define RED     "\033[31m"
